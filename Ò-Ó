@@ -22,5 +22,22 @@
 				   <li>asdfmovie10</li>
 				   <li>asdfmovie11</li>
 				</ul>
+				<table style="width:100%">
+  			<tr>
+    		<th>number</th> 
+		<th>witch one</th>
+		<th>0/10</th>
+			</tr>
+			<tr>
+    		<td>1</td>
+    		<td>asdfmovie1</td> 
+    		<td>10/10</td>
+  			</tr>
+  			<tr>
+    		<td>11</td>
+    		<th>asdfmovie11</th>
+    		<td>10/10</td>
+  			</tr>
+			</table>
 		</body>
 </html>
