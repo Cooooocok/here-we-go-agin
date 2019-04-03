@@ -1,16 +1,28 @@
 <html>
 		<head>
 				<title>guhungu</title>
+				<style>
 		.header{
-		  background-color
+		  background-color: rgba(255, 0, 0, 0.8);
+		   text-align: center;
+          font-family: "Comic sans ms", Times, serif;
+          }
+          
+          .topnav {
+              overflow: hiden;
+              background-color: rgba(255, 0, 0, 0.8);
+          }
+          
+                </style>
 		</head>
 		<body>
+		    <div class ="header">
 				<h1> Its time time. </h1>
+				</div>
 				<h2> By: my self </h2>
-
+				<a href="https://www.youtube.com/watch?v=dV8yrN1qh18">Suport to CREEEEEATOR.</a>
 				<img src=“https://i.ytimg.com/vi/XYweIs5qt_8/hqdefault.jpg“>
 				<p>I have no idea how to breath.</p>
-				<a href="https://www.youtube.com/watch?v=dV8yrN1qh18">Suport to CREEEEEATOR.</a>
 				<ul style="list-style-type:disc;">
 				   <li>asdfmovie1</li>
 				   <li>asdfmovie2</li>
