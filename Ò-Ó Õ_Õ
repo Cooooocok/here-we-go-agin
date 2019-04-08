@@ -4,23 +4,47 @@
 				<style>
 		.header{
 		  background-color: rgba(255, 0, 0, 0.8);
+		  padding: 20px;
 		   text-align: center;
           font-family: "Comic sans ms", Times, serif;
           }
           
           .topnav {
-              overflow: hiden;
-              background-color: rgba(255, 0, 0, 0.8);
+              overflow: hidden;
+              background-color: rgba(255, 100, 100, 0.8);
           }
           
+          .topnav a {
+              float: left;
+              display: block;
+              color: #f2f2f2;
+              text-align: center;
+              padding: 14px 16px;
+              text-decoration: none;
+          }
+          .topnav a:hover{
+              background-color: #ddd;
+              color:black;
+          }
+          .column{
+          float:right;
+          width:55.55%;
+          padding: 16px;
+          }
                 </style>
 		</head>
 		<body>
 		    <div class ="header">
 				<h1> Its time time. </h1>
 				</div>
+				
+				  <div class="topnav">
+	  			<a href="https://www.google.com/search?q=gnklfmcbv+k%3Blgm&oq=gnklfmcbv+k%3Blgm&aqs=chrome..69i57.1079j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on">a rondom web site</a>
+	 			 </div>
+	  
+	  			<a href="https://www.youtube.com/watch?v=dV8yrN1qh18">cedit to creeeeator</a>
+				
 				<h2> By: my self </h2>
-				<a href="https://www.youtube.com/watch?v=dV8yrN1qh18">Suport to CREEEEEATOR.</a>
 				<img src=“https://i.ytimg.com/vi/XYweIs5qt_8/hqdefault.jpg“>
 				<p>I have no idea how to breath.</p>
 				<ul style="list-style-type:disc;">
