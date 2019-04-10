@@ -6,17 +6,15 @@
 		  background-color: rgba(255, 0, 0, 0.8);
 		  padding: 20px;
 		   text-align: center;
-          font-family: "Comic sans ms", Times, serif;
-          }
-          
+          font-family: "Comic sans ms", Times, serif
           .topnav {
               overflow: hidden;
               background-color: rgba(255, 100, 100, 0.8);
           }
           
-          .topnav a {
               float: left;
-              display: block;
+              display: block
+          .topnav a {;
               color: #f2f2f2;
               text-align: center;
               padding: 14px 16px;
@@ -31,9 +29,23 @@
           width:55.55%;
           padding: 16px;
           }
+          .row:after {
+          content: "";
+          disply: table;
+          clear: both;
+          }
+          @meadia screen and (max-width:600px) {
+             .column {
+                 width: 100%;
+             }
+          }
                 </style>
 		</head>
 		<body>
+		    <div class="row">
+		  <div class="column">
+		      <h2>column</h2>
+		      <p>dis i a song a ery goooo song u lik i an liten tooooooo it alooooooot ju fo continu o song deese are som wooods buger buerger huerger chuger
 		    <div class ="header">
 				<h1> Its time time. </h1>
 				</div>
@@ -48,17 +60,9 @@
 				<img src=“https://i.ytimg.com/vi/XYweIs5qt_8/hqdefault.jpg“>
 				<p>I have no idea how to breath.</p>
 				<ul style="list-style-type:disc;">
-				   <li>asdfmovie1</li>
-				   <li>asdfmovie2</li>
-				   <li>asdfmovie3</li>
-				   <li>asdfmovie4</li>
-				   <li>asdfmovie5</li>
-				   <li>asdfmovie6</li>
-				   <li>asdfmovie7</li>
-				   <li>asdfmovie8</li>
-				   <li>asdfmovie9</li>
-				   <li>asdfmovie10</li>
-				   <li>asdfmovie11</li>
+				   <li>bayby</li>
+				   <li>jerk</li>
+				   <li>big boi</li>
 				</ul>
 				<table style="width:100%">
   			<tr>
@@ -67,9 +71,9 @@
 		<th>0/10</th>
 			</tr>
 			<tr>
-    		<td>1</td>
-    		<td>asdfmovie1</td> 
-    		<td>10/10</td>
+    		<td>9</td>
+    		<td>the first #1</td> 
+    		<td>0/10</td>
   			</tr>
   			<tr>
     		<td>11</td>
