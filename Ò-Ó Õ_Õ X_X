@@ -39,13 +39,17 @@
                  width: 100%;
              }
           }
+          p.one{
+              border bottom: 6px solid red;
+              background-color: blue;
+          }
                 </style>
 		</head>
 		<body>
 		    <div class="row">
 		  <div class="column">
 		      <h2>column</h2>
-		      <p>dis i a song a ery goooo song u lik i an liten tooooooo it alooooooot ju fo continu o song deese are som wooods buger buerger huerger chuger
+		      <p>dis i  a ong a ery goooo ong u lik i an liten tooooooo it alooooooot ju fo continu o song deese are som wooods buger buerger huerger chuger apple taple chapple capple la fa ha ta moo foo goo choo too
 		    <div class ="header">
 				<h1> Its time time. </h1>
 				</div>
@@ -57,7 +61,7 @@
 	  			<a href="https://www.youtube.com/watch?v=dV8yrN1qh18">cedit to creeeeator</a>
 				
 				<h2> By: my self </h2>
-				<img src=“https://i.ytimg.com/vi/XYweIs5qt_8/hqdefault.jpg“>
+				<p class="one"><img src="http://i1.ytimg.com/vi/dV8yrN1qh18/mqdefault.jpg"></p>
 				<p>I have no idea how to breath.</p>
 				<ul style="list-style-type:disc;">
 				   <li>bayby</li>
