@@ -7,14 +7,17 @@
 		  padding: 20px;
 		   text-align: center;
           font-family: "Comic sans ms", Times, serif
+		}
           .topnav {
               overflow: hidden;
               background-color: rgba(255, 100, 100, 0.8);
+              
+
           }
           
-              float: left;
-              display: block
-          .topnav a {;
+          .topnav a {
+               float: left;
+              display: block;
               color: #f2f2f2;
               text-align: center;
               padding: 14px 16px;
@@ -41,7 +44,8 @@
           }
           p.one{
               border bottom: 6px solid red;
-              background-color: blue;
+              background-color: solid red
+              ;
           }
                 </style>
 		</head>
@@ -49,16 +53,18 @@
 		    <div class="row">
 		  <div class="column">
 		      <h2>column</h2>
-		      <p>dis i  a ong a ery goooo ong u lik i an liten tooooooo it alooooooot ju fo continu o song deese are som wooods buger buerger huerger chuger apple taple chapple capple la fa ha ta moo foo goo choo too
+		      <p>dis i  a ong a ery goooo ong u lik i an liten tooooooo it alooooooot ju fo continu o song deese are som wooods buger buerger huerger chuger apple taple chapple capple la fa ha ta moo foo goo choo too ummm_____yee___ummm___yee yee heeeeeeeeee Im guna tak me hurcese tu de ol tim row i guna rid into i cunt no mo_____ i go de hucese in de bak 123456789098765432123456789098765432123456789098765 4321234567890987654321234567890987654321234567890
 		    <div class ="header">
 				<h1> Its time time. </h1>
 				</div>
 				
 				  <div class="topnav">
-	  			<a href="https://www.google.com/search?q=gnklfmcbv+k%3Blgm&oq=gnklfmcbv+k%3Blgm&aqs=chrome..69i57.1079j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on">a rondom web site</a>
+	  			<a href="https://playoverwatch.com/en-us/">a rondom web site</a>
 	 			 </div>
 	  
-	  			<a href="https://www.youtube.com/watch?v=dV8yrN1qh18">cedit to creeeeator</a>
+	  			<a href= "https://www.youtube.com/watch?v=dV8yrN1qh18">cedit to creeeeator</a>
+	  			
+	  			<iframe width="560" height="315" src="https://www.youtube.com/embed/dV8yrN1qh18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				<h2> By: my self </h2>
 				<p class="one"><img src="http://i1.ytimg.com/vi/dV8yrN1qh18/mqdefault.jpg"></p>
@@ -70,19 +76,20 @@
 				</ul>
 				<table style="width:100%">
   			<tr>
-    		<th>number</th> 
-		<th>witch one</th>
-		<th>0/10</th>
+    		<th>12345678907654321234567890-</th> 
+		<th>8u88u88u8u8u8uu8u8u88uu88uu88u8uu88u8u</th>
+		<th>0</th>
 			</tr>
 			<tr>
-    		<td>9</td>
+    		<td>07987654</td>
     		<td>the first #1</td> 
     		<td>0/10</td>
   			</tr>
   			<tr>
     		<td>11</td>
-    		<th>asdfmovie11</th>
-    		<td>10/10</td>
+    		<th>abchfehgjdrgyughjeghgufhyweig
+            </th>
+    		<td>10/1</td>
   			</tr>
 			</table>
 		</body>
